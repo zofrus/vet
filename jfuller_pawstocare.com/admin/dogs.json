@@ -1,0 +1,64 @@
+{
+    "dogs": [
+      {
+        "name": "Mishka",
+        "breed": "Siberian Husky",       
+        "sex": "m",
+        "age": "07/15/2013",
+        "neutered": 0,
+        "license": 1,
+        "shots": 1,
+        "size": 80,
+        "owners": "Lucille",
+        "notes": "Prefers bacon and eggs for breakfast."
+      },
+      {
+        "name": "Rose",
+        "breed": "Boxer",       
+        "sex": "f",
+        "age": "09/25/2014",
+        "neutered": 0,
+        "license": 1,
+        "shots": 1,
+        "size": 59,
+        "owners": "Frank Hekil",
+        "notes": "Very Friendly"
+      },
+      {
+        "name": "Mr. Snuffles",
+        "breed": "Yorkie",       
+        "sex": "m",
+        "age": "11/10/2012",
+        "neutered": 1,
+        "license": 1,
+        "shots": 0,
+        "size": 3,
+        "owners": "Zed Mathers",
+        "notes": "Will bark at very large dogs."
+      },
+      {
+        "name": "Shadow",
+        "breed": "German Shepherd",       
+        "sex": "f",
+        "age": "03/15/2013",
+        "neutered": 1,
+        "license": 0,
+        "shots": 1,
+        "size": 120,
+        "owners": "Hutch and Jill Wakanda",
+        "notes": "Loves having ears scratched."
+      },
+      {
+        "name": "Baldo",
+        "breed": "Huskie",       
+        "sex": "m",
+        "age": "02/02/2012",
+        "neutered": 1,
+        "license": 1,
+        "shots": 1,
+        "size": 19,
+        "owners": "Starsky Saienl and Mikah Jones",
+        "notes": "Capable sled dog"
+      }
+    ]
+  }

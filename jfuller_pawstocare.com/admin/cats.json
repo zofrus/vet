@@ -1,0 +1,59 @@
+{
+    "cats": [
+      {
+        "name": "Tom",
+        "breed": "ally",
+        "sex": "m",
+        "age": "11/10/2012",      
+        "neutered": 1,
+        "declawed": 1,
+        "shots": 0,
+        "owners": "Zed Mathers",
+        "notes": "Enjoys chasing mice. Very bad at it."
+      },
+      {
+        "name": "Socks",
+        "breed": "siamese",
+        "sex": "f",
+        "age": "03/15/2013",      
+        "neutered": 1,
+        "declawed": 0,
+        "shots": 1,
+        "owners": "Hutch and Jill Wakanda",
+        "notes": "Likes to lie in the sun." 
+      },
+      {
+        "name": "Mittens Fluffer",
+        "breed": "calico",
+        "sex": "m",
+        "age": "07/15/2013",      
+        "neutered": 0,
+        "declawed": 0,
+        "shots": 0,
+        "owners": "(Cats do not have owners. They have staff.) Ada and Antigone Wolfe",
+        "notes": "Proven narcissistic and sociopathic tendencies. In otherwords, a pretty normal cat." 
+      },
+      {
+        "name": "Mittens the second",
+        "breed": "tom",
+        "sex": "f",
+        "age": "09/25/2014",      
+        "neutered": 1,
+        "declawed": 1,
+        "shots": 0,
+        "owners": "Frank Hekil",
+        "notes": "Heir to the throne of the mittens dynasty" 
+      },
+      {
+        "name": "Hobbes Calvin",
+        "breed": "mixed",
+        "sex": "m",
+        "age": "02/02/2012",      
+        "neutered": 0,
+        "declawed": 1,
+        "shots": 1,
+        "owners": "Calvin",
+        "notes": "Believes humans have entered into a social contract with cats to pamper and feed them. Fondness for tuna fish."
+      }
+    ]
+  }

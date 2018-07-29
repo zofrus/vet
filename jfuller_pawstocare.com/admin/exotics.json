@@ -1,0 +1,36 @@
+{
+
+    "exotics": [{
+            "name": "Ben Hurr",
+            "species": "Turkey",
+            "sex": "m",
+            "age": "07/15/2013",
+            "owners": "The Franklin Family",
+            "notes": "Gobbles very loudly"              
+        },
+        {
+            "name": "T'kall",
+            "species": "Parrot",
+            "sex": "f",
+            "age": "09/25/2014",
+            "owners": "Frank Hekil",
+            "notes": "Bites. Hard."              
+        },
+        {
+            "name": "Sleipnir",
+            "species": "Horse",
+            "sex": "m",
+            "age": "11/10/2012",
+            "owners": "Odin Allfather",
+            "notes": "Trusty steed for travel across the nine realms"              
+        },
+        {
+            "name": "Haggen Daz",
+            "species": "Heifer",
+            "sex": "f",
+            "age": "01/12/2002",
+            "owners": "Odin Allfather",
+            "notes": "Full of great ice cream making dairy, yA!"              
+        }
+    ]
+}
